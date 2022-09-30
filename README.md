@@ -1,4 +1,3 @@
-
 # Transactional Email
 
 This is a solution to [this Campaign Monitor email template](https://templates.campaignmonitor.com/canvas/design/13-the-blueprint-3#/editor). 
@@ -6,6 +5,7 @@ Campaign Monitor is a website that hosts free email templates.
 
 
 ## Table of contents
+
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -14,25 +14,32 @@ Campaign Monitor is a website that hosts free email templates.
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+
 ## Overview
+
 ### Screenshot
 
 ![Transactional Email](images/transactional_screenshot.png)
+
 ### Links
 
 - [GitHub Repo URL](https://github.com/adrvnc/transactional-email)
 - [Live Site URL](https://adrvnc.github.io/transactional-email/)
+
 ## My Process
+
 ### Built with 
 
 - HTML5 
 - Inline CSS & Media Queries 
+
 ### What I learned 
 
 Before working on this project, I knew how to create horizontal lines. However,
 I wasn't sure if I needed to do anything differently while developing emails. 
 Using [Mark Robbins' Example](https://www.goodemailcode.com/email-code/hr) 
 helped me be on the lookout for things I should be aware of. 
+
 ### Continued development
 
 Learning to create emails from scratch   without using any framework can be beneficial. 
