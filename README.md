@@ -17,7 +17,7 @@ Campaign Monitor is a website that hosts free email templates.
 ## Overview
 ### Screenshot
 
-[Transactional Email](images/transactional_screenshot.png)
+![Transactional Email](images/transactional_screenshot.png)
 ### Links
 
 - [GitHub Repo URL](https://github.com/adrvnc/transactional-email)
