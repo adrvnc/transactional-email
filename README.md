@@ -1,6 +1,6 @@
 # Transactional Email
 
-This is a solution to [this Campaign Monitor email template](https://templates.campaignmonitor.com/canvas/design/13-the-blueprint-3#/editor). 
+This is a solution to an email template on [Campaign Monitor](https://www.campaignmonitor.com/email-templates/). 
 Campaign Monitor is a website that hosts free email templates. 
 
 
