@@ -11,7 +11,7 @@ Campaign Monitor is a website that hosts free email templates.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What I've learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 
@@ -33,7 +33,7 @@ Campaign Monitor is a website that hosts free email templates.
 - HTML5 
 - Inline CSS & Media Queries 
 
-### What I learned 
+### What I've learned 
 
 Before working on this project, I knew how to create horizontal lines. However,
 I wasn't sure if I needed to do anything differently while developing emails. 
